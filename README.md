@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak110402
-- 👀 I’m interested in Football
+- 👀 I’m interested in Programing
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me deepak110402@gmail.comm
