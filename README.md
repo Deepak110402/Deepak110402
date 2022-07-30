@@ -6,4 +6,4 @@
 
 I have done BCA from Amity university, Noida.
 My technical stack includes python, nodejs, C#, etc.
-I have done a internship of 4 months in The Tann Mann Foundation.
+I have done a internship of 4 months in The Tann Mann Foundation as a Backend developer Intern.
